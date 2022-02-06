@@ -1,6 +1,6 @@
 html,
 video {
   /* override other styles to make responsive */
-  width: 100%    !important;
+  width: 10    !important;
   height: auto   !important;
 }
